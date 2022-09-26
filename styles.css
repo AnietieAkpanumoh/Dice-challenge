@@ -43,6 +43,7 @@ h2 {
     margin-bottom: 10px;
 }
 
+
 footer {
     margin-top: 5%;
     color: yellow;
@@ -62,5 +63,10 @@ footer {
 
     .dice p {
         font-size: 25px;
+    }
+
+    .dice img {
+        width: 6rem;
+        height: 6rem
     }
 }
