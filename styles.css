@@ -48,7 +48,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 840px) {
+@media screen and (max-width: 840px) {
 
     .container {
         max-width: 100%;
